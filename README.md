@@ -58,16 +58,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
-
 ###
 
 <br>
 <h2 align="left"> 📊  Github Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=AmineCherkaoui" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=AmineCherkaoui" height="150" alt="languages graph"  />
-</div>
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=aminecherkaoui&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminecherkaoui&hide_border=true&layout=compact&theme=react" align="center" style="width: 100%" /></div>
+
+</td></tr></table>
+
+<br/>
 
 ###
 
@@ -96,4 +99,3 @@
   <img src="https://visitcount.itsvg.in/api?id=AmineCherkaoui&label=Profile%20Views&color=1&icon=2&pretty=true" />
 </a>
 </div>
-
