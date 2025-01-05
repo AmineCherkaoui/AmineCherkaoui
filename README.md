@@ -10,7 +10,7 @@
 
 <h2 align="left">Hi 👋! My name is Amine Cherkaoui and I'm a Front End Developer, from Morocco.</h2>
 
-<p> 🌱 I’m currently learning : React / Next.JS / Redux
+<p> 🌱 I’m currently learning :  Next.JS 
 
 ###
 
