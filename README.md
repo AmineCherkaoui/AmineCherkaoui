@@ -1,4 +1,5 @@
-###
+<h3 align="left">Glad to see you here! 😊</h3>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" align="middle">
@@ -35,31 +36,53 @@
 ###
 
 <br>
-<h3 align="left">Glad to see you here!</h3>
 
-###
+<h2 align="left">🔥 About Me</h2>
 
-<h4 align="left">I'm a highly motivated and driven individual with a Bachelor's Degree in Networking and a passion for web development and design. I have a strong understanding of networking principles and a solid foundation in web technologies, including HTML, CSS, and JavaScript. I am constantly seeking new challenges and opportunities to expand my knowledge and expertise in the field.</h4>
+* 👨‍💻 Passionate developer always exploring new technologies.
+
+* 🚀 Love working on innovative and impactful projects.
+
+* 📚 Constantly learning and improving my skills.
+
+* 🌍 Interested in open-source contributions and collaborations.
 
 ###
 
 <br>
-<h2 align="left">✨  My Skill</h2>
+<h2 align="left">🛠️ Languages and tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="60" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="60" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="52" alt="javascript logo"  />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60" width="60" alt="javascript logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" width="52" alt="tailwindcss logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="60" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" width="52" alt="figma logo"  />
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="0" width="52" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="6"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+ <img width="6"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+ <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+ <img width="6"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+###
 
 ###
 
@@ -84,13 +107,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=amineCherkaoui&theme=onestar&no-frame=true&no-bg=false&margin-w=4" height="150" alt="Github Trophies"  />
 </div>
 
-
-
-
 ###
 
-<div align="center">
-  <a align="right">
-  <img src="https://visitcount.itsvg.in/api?id=AmineCherkaoui&label=Profile%20Views&color=1&icon=2&pretty=true" />
-</a>
-</div>
+
